@@ -1,3 +1,4 @@
+
 ![API Server tests](https://github.com/amitavroy/react-spa-laravel-typescript/workflows/API%20Server%20tests/badge.svg)
 
 # React Admin
